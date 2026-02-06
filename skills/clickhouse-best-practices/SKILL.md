@@ -227,8 +227,3 @@ Each rule file in `rules/` contains:
 
 ---
 
-## Full Compiled Document
-
-For the complete guide with all rules expanded inline: `AGENTS.md`
-
-Use `AGENTS.md` when you need to check multiple rules quickly without reading individual files.
