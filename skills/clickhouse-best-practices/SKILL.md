@@ -5,6 +5,7 @@ license: Apache-2.0
 metadata:
   author: ClickHouse Inc
   version: "0.3.0"
+  url: https://github.com/ClickHouse/agent-skills
 ---
 
 # ClickHouse Best Practices
